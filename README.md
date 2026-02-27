@@ -200,7 +200,7 @@ This tool is intended for:
 ## 🔗 Links
 
 - **Portal**: [bad-antics.github.io](https://bad-antics.github.io)
-- **Discord**: [discord.gg/killers](https://discord.gg/killers)
+- **Discord**: [x.com/AnonAntics](https://x.com/AnonAntics)
 - **GitHub**: [github.com/bad-antics](https://github.com/bad-antics)
 
 ## 📄 License
